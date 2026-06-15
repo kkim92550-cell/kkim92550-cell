@@ -1,29 +1,64 @@
-🙋‍♂️ សួស្តី! ខ្ញុំបាទ KimDev 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=🙋‍♂️+សួស្តី!+ខ្ញុំបាទ+KimDev+👋;Web+Developer;Python+Enthusiast;Building+Future+Tech..." alt="Typing SVG" />
+</div>
 
-ខ្ញុំជា **Web Developer** និងជា **Python Enthusiast** មកពីប្រទេសកម្ពុជា 🇰🇭។ ខ្ញុំចូលចិត្តរៀនសរសេរកូដ បង្កើតកម្មវិធីប្លែកៗ និងឧបករណ៍ Automation ផ្សេងៗដើម្បីជួយសម្រួលដល់ការងារ។
-
----
-
-### 🚀 អំពីខ្ញុំ (About Me)
-- 🛠️ **បច្ចុប្បន្ន៖** កំពុងអភិវឌ្ឍគម្រោងផ្ទាល់ខ្លួន និងពង្រឹងសមត្ថភាពរាល់ថ្ងៃ។
-- ⚡ **ជំនាញចម្បង៖** Web Development (Frontend & Backend) និង Python Scripts។
-- 💞️ **ចំណាប់អារម្មណ៍៖** ចូលចិត្តស្វែងយល់ពី Cyber Security, Open Source និងការបង្កើត Tools ថ្មីៗ។
-- 📫 **ទំនាក់ទំនងខ្ញុំ៖** [Telegram] @kimTODev
----
-
-### 🛠️ ភាសាកូដ និងឧបករណ៍ដែលខ្ញុំប្រើ (Tech Stack)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://github.com/kkim92550-cell">
+    <img src="https://komarev.com/ghpvc/?username=kkim92550-cell&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
-### 📊 ស្ថិតិ GitHub របស់ខ្ញុំ (GitHub Stats)
+## 💻 អំពីខ្ញុំ (About Me)
 
-![KimDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkim92550-cell&show_icons=true&theme=tokyonight&hide_border=true)
+<table align="right">
+  <tr>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=kkim92550-cell&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="github trophies" />
+    </td>
+  </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkim92550-cell&layout=compact&theme=tokyonight&hide_border=true)
+* 🚀 **តួនាទី៖** អភិវឌ្ឍន៍កម្មវិធីជំនាន់ថ្មី (Aspiring Full-Stack Developer)
+* 🧠 **កំពុងស្រាវជ្រាវ៖** Advanced Python Automation, API Integration និង Security
+* ⚡ **គោលដៅ៖** បង្កើតផលិតផលបច្ចេកវិទ្យាដែលមានប្រយោជន៍ និងមានសុវត្ថិភាពខ្ពស់សម្រាប់សហគមន៍
+* 💬 **សួរខ្ញុំបានអំពី៖** Web Basics, Python Scripts ឬគម្រោងប្លែកៗដែលខ្ញុំបានធ្វើ
+
+<br>
+
+<p align="left">
+  <a href="https://t.me/your_username" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://facebook.com/your_profile" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
+
+---
+
+## 🛠️ បច្ចេកវិទ្យា និងជំនាញ (Tech Stack)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,html,css,git,github,vscode,sublime&theme=dark" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+## 📊 ស្ថិតិការងារលំដាប់អ្នកជំនាញ (Advanced GitHub Stats)
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kkim92550-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="KimDev's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkim92550-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkim92550-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
