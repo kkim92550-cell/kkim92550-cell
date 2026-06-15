@@ -1,4 +1,4 @@
-<img width="1659" height="1948" alt="image" src="https://github.com/user-attachments/assets/da4e5921-ef13-49fb-b348-deb49726d60f" /><img width="1659" height="1948" alt="image" src="https://github.com/user-attachments/assets/78c318b7-6442-411f-8f9e-d72bb14769cb" /># 🙋‍♂️ សួស្តី! ខ្ញុំបាទ KimDev 👋
+🙋‍♂️ សួស្តី! ខ្ញុំបាទ KimDev 👋
 
 ខ្ញុំជា **Web Developer** និងជា **Python Enthusiast** មកពីប្រទេសកម្ពុជា 🇰🇭។ ខ្ញុំចូលចិត្តរៀនសរសេរកូដ បង្កើតកម្មវិធីប្លែកៗ និងឧបករណ៍ Automation ផ្សេងៗដើម្បីជួយសម្រួលដល់ការងារ។
 
